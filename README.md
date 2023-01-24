@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ProgMan0
+- I love to write on python and java
 - My telegram t.me/darkspaceing
-- Thats all i think...
