@@ -1,15 +1,14 @@
-<h2 align="left">Account with name progman</h2>
+<h3 align="left">Welcome to my profile 👋</h3>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=progman0&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="120" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=progman0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=dracula&hide_border=true" height="110" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=progman0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=dracula&hide_border=true" height="130" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="120" src="https://i.imgflip.com/aux23.jpg"  />
+<img align="right" height="120" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
